@@ -7,7 +7,10 @@ public class Launch {
 		int i= 10;
 		int j = 20;
 		int add = i+j;
-		System.out.println(add);
+		System.out.println("addition"+add);
+		
+		int sub = j-i;
+		System.out.println("substraction"+sub);
 		
 
 	}
